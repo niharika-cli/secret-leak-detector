@@ -3,7 +3,7 @@
 # ==============================================================================
 # Script Name:    security_gatekeeper.sh
 # Description:    Pre-Deployment Security Scanner for Detecting Hardcoded Secrets
-# Author:         Niharika (niharika-bin)
+# Author:         Niharika (niharika-cli)
 # Architecture:   Lightweight Bash-based security auditing tool using native POSIX utilities
 # ==============================================================================
 
